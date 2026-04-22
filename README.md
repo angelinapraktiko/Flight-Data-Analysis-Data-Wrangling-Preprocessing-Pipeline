@@ -28,11 +28,11 @@ Project ini merupakan analisis data penerbangan dengan fokus pada tahap data pre
 ---
 
 ## Pembagian Tugas
-# --- Data Preprocessing (My Work) ---
-# EDA, Cleaning, Transformasi, Outlier
+--- Data Preprocessing (My Work) ---
+EDA, Cleaning, Transformasi, Outlier
 
-# --- Analysis & Visualization (Team Work) ---
-# Bagian ini dikerjakan oleh anggota tim
+--- Analysis & Visualization (Team Work) ---
+Bagian ini dikerjakan oleh anggota tim
 
 
 ---
