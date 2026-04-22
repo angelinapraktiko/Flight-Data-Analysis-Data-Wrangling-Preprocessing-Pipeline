@@ -34,7 +34,7 @@ EDA, Cleaning, Transformasi, Outlier
 
 --- Analysis & Visualization (Team Work) ---
 
-Bagian ini dikerjakan oleh anggota tim
+Bagian ini dikerjakan oleh anggota tim lain
 
 
 ---
